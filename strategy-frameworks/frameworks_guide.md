@@ -6,7 +6,7 @@ This framework is a simple, 3-step guide I use to analyze how science companies 
 
 ---
 
-## 🪜 Tier 1: The Translation Problem (Simplifying the Science)
+## Tier 1: The Translation Problem (Simplifying the Science)
 *How does the company explain complex science without confusing or boring the audience?*
 
 * **The Challenge:** Scientists use dense jargon (like "bioavailability," "efficacy rates," or "recombinant proteins"). Regular consumers or investors just want to know: *What is it, and how does it help me?*
@@ -17,7 +17,7 @@ This framework is a simple, 3-step guide I use to analyze how science companies 
 
 ---
 
-## 🪜 Tier 2: The Trust Factor (Overcoming Public Fear)
+## Tier 2: The Trust Factor (Overcoming Public Fear)
 *How does the company make people feel safe around new or unfamiliar technologies?*
 
 * **The Challenge:** New science often scares people. Consumers worry about data privacy with DNA testing, the safety of new vaccines, or whether plant-based meat replacements are "unnatural" or safe to eat.
@@ -28,7 +28,7 @@ This framework is a simple, 3-step guide I use to analyze how science companies 
 
 ---
 
-## 🪜 Tier 3: The Competitive Advantage (Winning the Market)
+## Tier 3: The Competitive Advantage (Winning the Market)
 *Why do customers choose this specific brand over all the others?*
 
 * **The Challenge:** Even if a consumer understands the science and trusts it, they still have choices. They could buy a competitor's medicine, use a different health app, or stick to traditional foods.
