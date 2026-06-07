@@ -24,6 +24,8 @@ Alternative protein startups face high consumer skepticism. Many people worry th
 * **The Academic Halo Effect:** Being incubated at IIT Bombay provides immediate scientific credibility and elite institutional backing, reassuring consumers of quality and safety.
 * **Radical Transparency:** By committing to a clean-label ingredient list, they eliminate consumer fear regarding hidden chemicals or synthetic binders.
 
+* ![ProMeat Strategic Framework](../assets/promeat-framework.png)
+
 ## 5. The Competitive Advantage & Future Outlook
 The ultimate business challenge for a startup like ProMeat is standing out in a crowded, competitive market. Their primary "strategic moat" lies in their formulation science—specifically their ability to optimize plant protein mixtures (like faba and mung beans) to get the perfect texture without relying on unhealthy additives. As the brand scales, its future success will depend on its ability to keep production costs low, balance scientific experimentation with digital marketing, and successfully introduce its products to mainstream, health-conscious retail consumers.
 
