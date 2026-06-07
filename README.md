@@ -29,7 +29,7 @@ Below is the list of companies I am currently researching and analyzing. As I co
 | **03. Health-Tech & Startups**| 23andMe | Why consumers trust (or fear) sharing their DNA data online. | ⏳ Coming Soon |
 | **03. Health-Tech & Startups**| Theranos | A historic look at what happens when corporate honesty fails. | ⏳ Coming Soon |
 | **04. Sustainable Food Biotech**| Impossible Foods | How to convince traditional meat-eaters to buy plant-based foods. | ⏳ Coming Soon |
-| **05. Emerging Startups** | ProMeat | How small plant-based protein startups win consumer trust. | [View Case Study](./case-studies/promeat-deep-dive.md) |
+| **05. Emerging Startups** | ProMeat | How small plant-based protein startups win consumer trust. | [View Case Study](./case-studies/promeat-case-study.md) |
 
 ---
 
