@@ -7,7 +7,7 @@
 ---
 
 ## 1. Company Overview
-ProMeat is an emerging, innovative food biotechnology startup incubated at SINE–IIT Bombay. The company focuses on developing plant-based meat and nutrition alternatives that replicate the texture, taste, and nutritional profile of animal proteins. Utilizing sustainable plant sources like faba beans, soy, rice, and mung beans, ProMeat focuses heavily on "clean-label" formulations—meaning they create products using natural, recognizable ingredients rather than heavy artificial chemicals or synthetic texturizers.
+ProMeat is an emerging, innovative food biotechnology startup incubated at SINE–IIT Bombay. The company focuses on developing plant-based meat and nutrition alternatives that replicate the texture, taste, and nutritional profile of animal proteins. Utilizing sustainable plant sources like faba beans, soy, rice, and mung beans, ProMeat focuses heavily on "clean-label" formulations meaning they create products using natural, recognizable ingredients rather than heavy artificial chemicals or synthetic texturizers.
 
 ## 2. Industry Background & Market Need
 The global food sector faces a massive challenge: how to feed a growing population sustainably without relying entirely on traditional, resource-heavy animal farming. While plant-based alternatives exist, many mainstream consumers reject them because of poor texture, artificial chemical aftertastes, or high price tags. ProMeat addresses this market gap by applying strict biotechnology principles such as rigorous trial formulations and testing parameters like protein solubility and centrifugation to achieve a realistic product texture using clean, plant-based proteins.
