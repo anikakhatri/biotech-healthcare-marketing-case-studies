@@ -10,7 +10,7 @@
 ProMeat is an emerging, innovative food biotechnology startup incubated at SINE–IIT Bombay. The company focuses on developing plant-based meat and nutrition alternatives that replicate the texture, taste, and nutritional profile of animal proteins. Utilizing sustainable plant sources like faba beans, soy, rice, and mung beans, ProMeat focuses heavily on "clean-label" formulations—meaning they create products using natural, recognizable ingredients rather than heavy artificial chemicals or synthetic texturizers.
 
 ## 2. Industry Background & Market Need
-The global food sector faces a massive challenge: how to feed a growing population sustainably without relying entirely on traditional, resource-heavy animal farming. While plant-based alternatives exist, many mainstream consumers reject them because of poor texture, artificial chemical aftertastes, or high price tags. ProMeat addresses this market gap by applying strict biotechnology principles—such as rigorous trial formulations and testing parameters like protein solubility and centrifugation—to achieve a realistic product texture using clean, plant-based proteins.
+The global food sector faces a massive challenge: how to feed a growing population sustainably without relying entirely on traditional, resource-heavy animal farming. While plant-based alternatives exist, many mainstream consumers reject them because of poor texture, artificial chemical aftertastes, or high price tags. ProMeat addresses this market gap by applying strict biotechnology principles such as rigorous trial formulations and testing parameters like protein solubility and centrifugation to achieve a realistic product texture using clean, plant-based proteins.
 
 ## 3. The Translation Problem (Simplifying the Science)
 To win over regular consumers, ProMeat has to translate complex food chemistry into a lifestyle brand. Regular shoppers do not look at a food product and think about "centrifugation separation parameters" or "globulin protein solubility indices." 
@@ -29,7 +29,7 @@ The ultimate business challenge for a startup like ProMeat is standing out in a 
 
 ---
 
-## 💡 Key Lessons for Management
+## Key Lessons for Management
 1. **Science is Only Half the Battle:** An incredible scientific formulation is useless if the final product does not taste good or looks too complicated for a regular person to buy.
 2. **Lean on Trusted Institutions:** For an early-stage biotech startup, association with a top-tier university or research incubator can substitute for a multi-million-dollar advertising budget by building instant public trust.
 3. **Clean Labels Build Loyalty:** Modern consumers want simplicity. Reducing artificial ingredients might make product formulation harder in the lab, but it makes branding and consumer trust vastly easier in the marketplace.
