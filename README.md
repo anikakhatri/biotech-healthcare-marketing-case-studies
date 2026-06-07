@@ -35,7 +35,7 @@ Below is the list of companies I am currently researching and analyzing. As I co
 
 ## Simple Business Concepts I Am Practicing
 
-In each study, I try to look at three main beginner-friendly ideas:
+In each study, I try to look at three main ideas:
 1. **The Translation Problem:** How does a company explain a complicated scientific metric (like protein solubility or clinical trial data) in plain, simple language that a regular consumer can understand and trust?
 2. **The Trust Factor:** Science can sometimes cause public fear or skepticism (like GMOs or data privacy). How do brands build emotional safety and trust?
 3. **The Competitive Advantage:** Why do customers choose one specific medicine, health app, or food alternative over another?
