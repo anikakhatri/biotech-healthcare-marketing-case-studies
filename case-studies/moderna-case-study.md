@@ -1,6 +1,6 @@
 # Moderna: The "Operating System of Life" and the Digitalization of Biopharma
 
-**Author:** Gemini
+**Author:** Anika Khatri
 
 **Date:** June 2026
 
