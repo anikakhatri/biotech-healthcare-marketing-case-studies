@@ -14,7 +14,7 @@ In 2020–2021, Pfizer operated in a "wartime" economy. Alongside its partner Bi
 
 However, as the global emergency faded, Pfizer faced sharp revenue drops from its COVID-14 products and a shifting public landscape. The brand shifted from being viewed as an emergency savior to a traditional corporation facing intense scrutiny over vaccine pricing, long-term safety questions, and intellectual property access.
 
-![Pfizer Strategic Framework](../assets/promeat-framework.png.png)
+![Pfizer Strategic Framework](../assets/pfizer-framework.png)
 
 ---
 
