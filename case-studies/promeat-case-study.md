@@ -124,34 +124,10 @@ By embedding their products into the standard operating workflows of commercial 
 ## 8. Strategic SWOT Analysis
 
 | Strengths | Weaknesses |
-| --- | --- |
-| • Strong technical backing from SINE–IIT Bombay.<br>
-
-<br>• Clean-label, non-GMO formulation with zero synthetic binders.<br>
-
-<br>• Highly versatile, localized product formats (*Seekh Kebab*, *Mince*).<br>
-
-<br>• High-yield thermal stability optimized for commercial kitchens. | • High dependence on localized cold-chain logistics.<br>
-
-<br>• Limited manufacturing scale relative to global FMCG conglomerates.<br>
-
-<br>• Lower initial retail brand awareness outside Tier-1 urban centers.<br>
-
-<br>• Vulnerability to spot inventory stockouts in direct retail. |
+| :--- | :--- |
+| • Strong technical backing from SINE–IIT Bombay.<br>• Clean-label, non-GMO formulation with zero synthetic binders.<br>• Highly versatile, localized product formats (*Seekh Kebab*, *Mince*).<br>• High-yield thermal stability optimized for commercial kitchens. | • High dependence on localized cold-chain logistics.<br>• Limited manufacturing scale relative to global FMCG conglomerates.<br>• Lower initial retail brand awareness outside Tier-1 urban centers.<br>• Vulnerability to spot inventory stockouts in direct retail. |
 | **Opportunities** | **Threats** |
-| • Expanding the B2B footprint across national quick-service restaurant (QSR) chains.<br>
-
-<br>• Export potential to APAC and Middle Eastern markets hungry for halal-compliant, premium clean proteins.<br>
-
-<br>• Utilizing localized precision fermentation to isolate novel crop texturizers.<br>
-
-<br>• Tailoring low-cost, high-nutrition institutional protein products for corporate catering. | • Aggressive price undercutting from heavily capitalized legacy competitors.<br>
-
-<br>• Sharp inflationary fluctuations in localized crop supply chains.<br>
-
-<br>• Widespread consumer fatigue or skepticism toward the broader plant-based category.<br>
-
-<br>• Highly fragmented cold storage infrastructure in emerging market growth vectors. |
+| • Expanding the B2B footprint across national quick-service restaurant (QSR) chains.<br>• Export potential to APAC and Middle Eastern markets hungry for halal-compliant, premium clean proteins.<br>• Utilizing localized precision fermentation to isolate novel crop texturizers.<br>• Tailoring low-cost, high-nutrition institutional protein products for corporate catering. | • Aggressive price undercutting from heavily capitalized legacy competitors.<br>• Sharp inflationary fluctuations in localized crop supply chains.<br>• Widespread consumer fatigue or skepticism toward the broader plant-based category.<br>• Highly fragmented cold storage infrastructure in emerging market growth vectors. |
 
 ---
 
