@@ -42,6 +42,7 @@ Originally engineered as a chronic metabolic therapy for diabetes, the drug's po
 * **The Consumer Psychology of Scarcity:** Ironically, product shortages fueled the consumer desire to obtain it. In consumer psychology, extreme scarcity increases perceived value. Ozempic became a high-status luxury asset within the wellness community.
 * **The Strategic Moat:** Novo Nordisk's ultimate advantage is its early clinical data footprint and proprietary manufacturing infrastructure for sterile injection pens. While competitors like Eli Lilly (Mounjaro/Zepbound) have entered the market with dual-acting agonists, Novo Nordisk's brand equity is so deeply embedded that "Ozempic" has become the genericized trademark for the entire GLP-1 drug class (similar to Band-Aid or Xerox).
 
+![Pfizer Strategic Framework](../assets/novo-nordisk-framework.png)
 ---
 
 ## 4. Strategic Lessons for Biotech Management
