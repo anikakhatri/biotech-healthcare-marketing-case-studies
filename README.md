@@ -24,7 +24,7 @@ Below is the list of companies I am currently researching and analyzing. As I co
 | Industry Type | Company | What I Am Analyzing | Status |
 | :--- | :--- | :--- | :--- |
 | **01. Big Pharma & Vaccines** | Pfizer | How their brand image changed after the COVID-19 pandemic. | [View Case Study](./case-studies/pfizer-case-study.md) |
-| **01. Big Pharma & Vaccines** | Novo Nordisk | The incredible demand and consumer psychology behind Ozempic. | ⏳ Coming Soon |
+| **01. Big Pharma & Vaccines** | Novo Nordisk | The incredible demand and consumer psychology behind Ozempic. | [View Case Study](./case-studies/novo-nordisk-case-study.md) |
 | **02. Biotech Pioneers** | Moderna | How they branded mRNA technology as a fast "operating system." | ⏳ Coming Soon |
 | **03. Health-Tech & Startups**| 23andMe | Why consumers trust (or fear) sharing their DNA data online. | ⏳ Coming Soon |
 | **03. Health-Tech & Startups**| Theranos | A historic look at what happens when corporate honesty fails. | ⏳ Coming Soon |
