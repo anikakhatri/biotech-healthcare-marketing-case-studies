@@ -106,7 +106,6 @@ Throughout its rise, 23andMe attempted to construct a multi-layered strategic mo
 
 ## 8. Strategic SWOT Analysis
 
-```markdown
 | Strengths | Weaknesses |
 | :--- | :--- |
 | • Unrivaled proprietary biobank of 15M+ genotyped, re-contactable profiles.<br>• First-mover brand equity with broad consumer recognition.<br>• Portfolio of direct-to-consumer FDA clearances for health risk reporting.<br>• Deep, validated R&D pipelines powered by machine learning and AI. | • "One-and-done" transaction model lacks organic, repeat kit sales.<br>• High vulnerability to cyber risks via connected user networks.<br>• Depleted cash reserves and historical reliance on public markets.<br>• Strained consumer relations following high-profile data breaches. |
