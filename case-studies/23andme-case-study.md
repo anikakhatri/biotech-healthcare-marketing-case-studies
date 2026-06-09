@@ -1,7 +1,9 @@
 # 23andMe: The Commercialization of Genetic Privacy and the Paradox of Consumer Trust
 
 **Author:** Anika Khatri
+
 **Date:** June 2026
+
 **Sector:** Consumer Genetics / Health-tech / Bioinformatics
 
 ---
