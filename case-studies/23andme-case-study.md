@@ -22,12 +22,14 @@ The macroeconomic drivers of DTC genomics relied on the dramatic scaling of Next
 
 ## 3. Business Model & Value Proposition
 23andMe operates a complex, dual-sided business model designed to capture value at two distinct stages of the data lifecycle:
+
 [Consumer Front-End] ──(Saliva Kit Sale)──> [Genotypic Data Aggregation]
-│
-(80%+ Opt-In Research Consent)
-│
-▼
+                                                      │
+                                           (80%+ Opt-In Research Consent)
+                                                      │
+                                                      ▼
 [Biopharma Back-End] <──(Data Licensing)─── [B2B Big Data Monetization]
+
 
 ### Revenue Streams
 1. **B2C Consumer Kits & Subscriptions (Front-End):** Direct-to-consumer sales of Ancestry + Traits ($119) and Health + Ancestry ($229) kits. This was later expanded into a recurring revenue model via the **23andMe+ Premium Subscription**, offering continuous wellness tracking and updated pharmacogenomics reports.
@@ -107,7 +109,10 @@ The bio-ethical dimensions of 23andMe’s operation demand stringent corporate g
 
 ## 10. Innovation Pipeline & Future Outlook
 Over a 5-to-10 year horizon, 23andMe’s survival depends on transitioning from a consumer novelty gift company into a clinical-grade data infrastructure powerhouse.
-[Phase 1: Heritage Tracking] ──> [Phase 2: Risk Profiling] ──> [Phase 3: Automated Precision Medicine]The future innovation vector lies in automated precision medicine. By matching consumer genetic profiles with machine learning models, 23andMe aims to offer personalized health recommendations. If the platform survives its current fiscal challenges, your future 23andMe portal will likely interface directly with your primary care provider. This would allow for the automated customization of preventative therapeutics, dietary strategies, and lifestyle adjustments tailored directly to your genetic profile.
+
+[Phase 1: Heritage Tracking] ──> [Phase 2: Risk Profiling] ──> [Phase 3: Automated Precision Medicine]
+
+The future innovation vector lies in automated precision medicine. By matching consumer genetic profiles with machine learning models, 23andMe aims to offer personalized health recommendations. If the platform survives its current fiscal challenges, your future 23andMe portal will likely interface directly with your primary care provider. This would allow for the automated customization of preventative therapeutics, dietary strategies, and lifestyle adjustments tailored directly to your genetic profile.
 
 ---
 
