@@ -50,8 +50,6 @@ The macroeconomic drivers of DTC genomics relied on the dramatic scaling of Next
 ## 5. Branding Strategy & Corporate Narrative
 The brand's corporate narrative bridges complex molecular biology and consumer-facing storytelling. By employing vibrant color palettes, accessible chromosome visualizations, and humanizing messaging, the company deliberately softened the sterile, clinical perception of genetic engineering.
 
-<img src="image_agent_tag_18124896589546577585" alt="23andMe DNA kit box showing clean white packaging and bright colorful chromosome bars" width="600" />
-
 * **Visual Tone:** Clean, minimalist white packaging offset by bright, playful spectrums representing chromosomes. The interface avoids cold medical designs, relying instead on clean iconography, mobile-first dashboards, and celebratory micro-animations upon revealing lineage traits.
 * **Positioning Language:** Centered entirely around human autonomy, utilizing taglines like *"Welcome to You"* and *"Take a deeper look into your DNA."* 
 * **Target Audience Alignment:** Primarily targeting two distinct consumer demographics:
@@ -62,8 +60,6 @@ The brand's corporate narrative bridges complex molecular biology and consumer-f
 
 ## 6. Consumer Trust & Behavioral Psychology
 Operating in a deeply personal market, 23andMe sits at the center of a intense psychological conflict: the balance between consumer curiosity and data privacy anxiety. 
-
-<img src="image_agent_tag_18124896589546576148" alt="23andMe online portal dashboard showcasing clear health reports and user choices" width="600" />
 
 ### The Dual Behavioral Frameworks
 
