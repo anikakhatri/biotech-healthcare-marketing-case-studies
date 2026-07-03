@@ -4,7 +4,7 @@
 
 **Date:** June 2026
 
-**Sector:** Biopharma / Health-Tech
+**Sector:** Big Pharma & Vaccines
 
 ---
 
