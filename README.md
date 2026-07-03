@@ -28,7 +28,7 @@ Below is the list of companies I am currently researching and analyzing. As I co
 | **02. Biotech Pioneers** | Moderna | How they branded mRNA technology as a fast "operating system." | [View Case Study](./case-studies/moderna-case-study.md) |
 | **03. Health-Tech & Startups**| 23andMe | Why consumers trust (or fear) sharing their DNA data online. | [View Case Study](./case-studies/23andme-case-study.md) |
 | **03. Health-Tech & Startups**| Theranos | A historic look at what happens when corporate honesty fails. | [View Case Study](./case-studies/theranos-case-study.md) |
-| **04. Sustainable Food Biotech**| Impossible Foods | How to convince traditional meat-eaters to buy plant-based foods. | [View Case Study] |
+| **04. Sustainable Food Biotech**| Impossible Foods | How to convince traditional meat-eaters to buy plant-based foods. | [View Case Study](./case-studies/impossible-foods-case-study.md) |
 | **05. Emerging Startups** | ProMeat | How small plant-based protein startups win consumer trust. | [View Case Study](./case-studies/promeat-case-study.md) |
 
 ---
